@@ -1,4 +1,4 @@
-<img src=http://ramki-photoshop.ru/oforml/oformlenie-27.png width="400" height="600" align="left"/>
+<img src=http://ramki-photoshop.ru/oforml/oformlenie-27.png width="600" height="400" align="left"/>
 
 # Java
  Работы по дисциплине Современные технолонии программирования
