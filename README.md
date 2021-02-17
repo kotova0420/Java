@@ -1,3 +1,5 @@
+<img src=https://ramki-photoshop.ru/personaj/1/kotenok.png width="500" height="350" align="left"/>
+
 # Java
  Работы по дисциплине Современные технолонии программирования
 ***
