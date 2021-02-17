@@ -1,4 +1,4 @@
-<img src=https://ramki-photoshop.ru/personaj/1/kotenok.png width="400" height="600" align="left"/>
+<img src=/Пользователи/ekaterinakotova/Desktop/1.png width="400" height="600" align="left"/>
 
 # Java
  Работы по дисциплине Современные технолонии программирования
