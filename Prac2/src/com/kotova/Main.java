@@ -3,6 +3,10 @@ package com.kotova;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("1");
+        ObservableStringBuilder observableStringBuilder = new ObservableStringBuilder("Like, ");
+        observableStringBuilder.setOnChangeListener(builder ->
+                System.out.println("Новое состояние: " + builder.toString()));
+
+        observableStringBuilder.append("sweet");
     }
 }
