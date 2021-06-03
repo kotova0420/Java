@@ -1,0 +1,16 @@
+.background {
+    -fx-background-color: #ffefd5;
+}
+
+.label{
+    -fx-font-family: "Verdana";
+}
+
+.button {
+    -fx-font-family: "Verdana";
+    -fx-background-color: #dcdcdc;
+    -fx-border-radius: 4;
+}
+
+
+
