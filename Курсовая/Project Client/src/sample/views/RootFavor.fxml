@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane prefHeight="400.0" prefWidth="600.0" styleClass="background" stylesheets="@avtor.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.controllers.RootController">
+    <top>
+        <MenuBar BorderPane.alignment="CENTER">
+            <menus>
+                <Menu mnemonicParsing="false" text="Билеты">
+                    <items>
+                        <MenuItem fx:id="ticketsListItem" mnemonicParsing="false" text="Список билетов" />
+                        <MenuItem fx:id="addTicketItem" mnemonicParsing="false" text="Добавить новый билет" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Клиенты">
+                    <items>
+                        <MenuItem fx:id="clientsListItem" mnemonicParsing="false" text="Список клиентов" />
+                        <MenuItem fx:id="addClientItem" mnemonicParsing="false" text="Добавить клиента" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Спектакли">
+                    <items>
+                        <MenuItem fx:id="performancesListItem" mnemonicParsing="false" text="Список спектаклей" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Акции">
+                    <items>
+                        <MenuItem fx:id="sharesListItem" mnemonicParsing="false" text="Список акций" />
+                    </items>
+                </Menu>
+            <Menu mnemonicParsing="false" text="Информация">
+              <items>
+                <MenuItem fx:id="avtorItem" mnemonicParsing="false" text="Автор" />
+              </items>
+            </Menu>
+            </menus>
+        </MenuBar>
+    </top>
+</BorderPane>

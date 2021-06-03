@@ -1,0 +1,28 @@
+.background {
+    -fx-background-color: #ffefd5;
+}
+
+.label{
+    -fx-font-family: "Verdana";
+}
+
+.button {
+    -fx-font-family: "Verdana";
+    -fx-background-color: #dcdcdc;
+    -fx-border-radius: 4;
+}
+
+
+.table-view {
+    -fx-background-color: #dcdcdc;
+    -fx-font-family: "Verdana";
+}
+
+.table-view.column-header.background {
+    -fx-background-color: #dcdcdc;
+    -fx-font-family: "Verdana";
+}
+
+.table-view.column-header.label {
+    -fx-font-family: "Verdana";
+}
