@@ -3,5 +3,7 @@
 # Java
  Работы по дисциплине Современные технолонии программирования
 ***
+* [Курсовая](https://github.com/kotova0420/Java/tree/main/Курсовая)
 * [Prac1](https://github.com/kotova0420/Java/tree/main/Prac1)
 * [Prac2_1](https://github.com/kotova0420/Java/tree/main/Prac2_1)
+
